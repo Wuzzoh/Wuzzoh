@@ -1,6 +1,8 @@
-- 👋 Hello, I am @Wuzzoh,
-- 🌱 I’m currently learning C#.
-- 💞️ I’m looking to collaborate with anyone on a C# project, so I can have an opportunity to learn.
+-  Why hello there, I am @Wuzzoh, the cause of human suffering.
+-  I know* C#, C++, Javascript, and some HTML.
+-  Working with me would be a mistake, so I'd adivse caution if you decide to take that course of action.
+
+> *in the most basic sense, of course.
 
 <!---
 Wuzzoh/Wuzzoh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
