@@ -1,4 +1,4 @@
--  Why hello there, I am @Wuzzoh, the cause of human suffering.
+-  Why hello there, I am @Wuzzoh (AKA Mr.LayZ), the cause of human suffering.
 -  I know* C#, C++, Javascript, and some HTML.
 -  Working with me would be a mistake, so I'd adivse caution if you decide to take that course of action.
 
